@@ -17,7 +17,7 @@
     "expo-blur": "^14.0.3",
     "expo-camera": "^16.0.18",
     "expo-constants": "^17.0.5",
-    "expo-font": "^13.0.3",
+    "expo-font": "latest",
     "expo-haptics": "^14.0.1",
     "expo-linear-gradient": "^14.0.2",
     "expo-linking": "^7.0.5",
@@ -27,7 +27,7 @@
     "expo-symbols": "^0.2.2",
     "expo-system-ui": "^4.0.7",
     "expo-web-browser": "^14.0.2",
-    "lucide-react-native": "^0.475.0",
+    "lucide-react-native": "latest",
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "react-native": "0.76.6",
@@ -38,7 +38,9 @@
     "react-native-svg": "^15.11.1",
     "react-native-url-polyfill": "^2.0.0",
     "react-native-web": "^0.19.13",
-    "react-native-webview": "13.12.5"
+    "react-native-webview": "13.12.5",
+    "@react-native-async-storage/async-storage": "latest",
+    "@expo-google-fonts/raleway": "latest"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
